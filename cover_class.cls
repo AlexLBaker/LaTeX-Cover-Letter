@@ -1,5 +1,3 @@
-% Created by Alexander Baker, original repo here: https://github.com/AlexLBaker/LaTeX-Cover-Letter
-
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{cover_class}[2023/03/27 Custom Cover Letter Class]
 
@@ -36,7 +34,7 @@
             \fontsize{14pt}{10pt}\selectfont\textcolor{orange}{\faPhone} & \fontsize{12pt}{12pt} \selectfont #1\\
             \fontsize{14pt}{10pt}\selectfont\textcolor{forestgreen}{\faEnvelope} & \fontsize{12pt}{12pt} \selectfont #2\\
             \fontsize{15pt}{10pt}\selectfont\textcolor{wine}{\faMapMarker} & \fontsize{12pt}{12pt} \selectfont #3\\
-            \fontsize{16pt}{10pt}\selectfont\textcolor{linkedinblue}{\faLinkedin} & \fontsize{12pt}{12pt} \selectfont #4\\
+            \fontsize{16pt}{10pt}\selectfont\textcolor{linkedinblue}{\faLinkedin} & \fontsize{12pt}{12pt} \selectfont \href{https://www.linkedin.com/in/alexander-l-baker/}{#4}\\
             \fontsize{14pt}{10pt}\selectfont\textcolor{black}{\faGithub} & \fontsize{12pt}{12pt} \selectfont #5
         \end{tabular}
     \end{minipage}
