@@ -33,11 +33,11 @@
         \renewcommand{\arraystretch}{1}
         \hspace{-50pt} 
         \begin{tabular}{l@{\hspace{4pt}}l}
-            \fontsize{14pt}{10pt}\selectfont\textcolor{forestgreen}{\faEnvelope} & \fontsize{12pt}{12pt} \selectfont #1\\    
-            \fontsize{14pt}{10pt}\selectfont\textcolor{orange}{\faPhone} & \fontsize{12pt}{12pt}\selectfont #2\\
-            \fontsize{16pt}{10pt}\selectfont\textcolor{linkedinblue}{\faLinkedin} & \fontsize{12pt}{12pt}\selectfont #3\\
-            \fontsize{14pt}{10pt}\selectfont\textcolor{black}{\faGithub} & \fontsize{12pt}{12pt}\selectfont #4\\
-            \fontsize{15pt}{10pt}\selectfont\textcolor{wine}{\faMapMarker} & \fontsize{12pt}{12pt}\selectfont #5
+            \fontsize{14pt}{10pt}\selectfont\textcolor{orange}{\faPhone} & \fontsize{12pt}{12pt} \selectfont #1\\
+            \fontsize{14pt}{10pt}\selectfont\textcolor{forestgreen}{\faEnvelope} & \fontsize{12pt}{12pt} \selectfont #2\\
+            \fontsize{15pt}{10pt}\selectfont\textcolor{wine}{\faMapMarker} & \fontsize{12pt}{12pt} \selectfont #3\\
+            \fontsize{16pt}{10pt}\selectfont\textcolor{linkedinblue}{\faLinkedin} & \fontsize{12pt}{12pt} \selectfont #4\\
+            \fontsize{14pt}{10pt}\selectfont\textcolor{black}{\faGithub} & \fontsize{12pt}{12pt} \selectfont #5
         \end{tabular}
     \end{minipage}
 }
